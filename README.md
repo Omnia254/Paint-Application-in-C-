@@ -1,5 +1,6 @@
 # Paint-Application-in-#C
 Overview
+
 Welcome to the Paint Application in C# repository! This project is a simple yet feature-packed drawing tool built using C# and the Windows Forms framework. Whether you're an artist or just looking to have some fun with digital drawings, this application is designed to cater to your creative needs.
 
 ## Table of Contents
@@ -19,7 +20,11 @@ Responsive Design: The application is designed to provide an optimal drawing exp
 
 ## 2.How to Use
 Choose your drawing tool from the toolbar.
+
 Adjust the color using the color picker.
+
 Start drawing on the canvas.
+
 Experiment with the fill tool to add color to closed areas.
+
 Save your artwork for future reference or sharing.
