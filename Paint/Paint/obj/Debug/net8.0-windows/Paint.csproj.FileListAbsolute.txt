@@ -1,0 +1,17 @@
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\bin\Debug\net8.0-windows\Paint.exe
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\bin\Debug\net8.0-windows\Paint.deps.json
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\bin\Debug\net8.0-windows\Paint.runtimeconfig.json
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\bin\Debug\net8.0-windows\Paint.dll
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\bin\Debug\net8.0-windows\Paint.pdb
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\obj\Debug\net8.0-windows\Paint.Form1.resources
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\obj\Debug\net8.0-windows\Paint.csproj.GenerateResource.cache
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\obj\Debug\net8.0-windows\Paint.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\obj\Debug\net8.0-windows\Paint.AssemblyInfoInputs.cache
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\obj\Debug\net8.0-windows\Paint.AssemblyInfo.cs
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\obj\Debug\net8.0-windows\Paint.csproj.CoreCompileInputs.cache
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\obj\Debug\net8.0-windows\Paint.dll
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\obj\Debug\net8.0-windows\refint\Paint.dll
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\obj\Debug\net8.0-windows\Paint.pdb
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\obj\Debug\net8.0-windows\Paint.genruntimeconfig.cache
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\obj\Debug\net8.0-windows\ref\Paint.dll
+F:\ITI 9 Month SD\12. #c\Day12\Paint\Paint\obj\Debug\net8.0-windows\Paint.Properties.Resources.resources
